@@ -1,17 +1,17 @@
 # site settings
-title: Accountability App
-subtitle: by HTML5 UP
+title: Insta-goal
+subtitle: subtitle
 email: angelina.abitin@colorado.edu
 description: A project for CSCI 5839
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+#street_address: 1234 Somewhere Road
+#city: Nashville
+#state: TN
+#zip_code: 55555
+#country: United States of America
+phone: (321) 271-0596
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
