@@ -14,7 +14,7 @@
 		.icon {
 			left: 0;
 			position: absolute;
-			top: _size(element-margin);
+			top: (_size(element-margin) * 1.5);
 		}
 
 		h3 {
