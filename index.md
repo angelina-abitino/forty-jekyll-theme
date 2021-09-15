@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-This is where a bried project description will go.
+NSTA-GOAL is a mobile app that helps you reach your goals by pairing you with a peer accountability buddy with the same goal to share the journey with. 
