@@ -1,8 +1,8 @@
 # site settings
-title: Insta-goal
+title: INSTA-GOAL (name IP)
 subtitle: real goals, real people
 email: angelina.abitino@colorado.edu
-description: A project for CSCI 5839
+description: 
 baseurl: "/insta-goal" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: This is the author
