@@ -6,7 +6,7 @@ description:
 baseurl: "/insta-goal" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: This is the author
-street_address: Idea Forge \n2445 Kittredge Loop Dr 
+street_address: Idea Forge - 2445 Kittredge Loop Dr 
 city: Boulder
 state: CO
 zip_code: 80309
