@@ -2,7 +2,7 @@
 layout: post
 title: Project Proposal
 description: objective, target user group, data use, and expected challenges 
-image: assets/images/pic11.jpg
+image: assets/images/proposal-unsplash.jpg
 nav-menu: true
 ---
 
