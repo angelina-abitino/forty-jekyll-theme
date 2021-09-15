@@ -3,11 +3,10 @@ title: Insta-goal
 subtitle: real goals, real people
 email: angelina.abitino@colorado.edu
 description: A project for CSCI 5839
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/insta-goal" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: This is the author
-street_address: Idea Forge 
-                2445 Kittredge Loop Dr 
+street_address: Idea Forge \n2445 Kittredge Loop Dr 
 city: Boulder
 state: CO
 zip_code: 80309
