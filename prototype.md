@@ -21,7 +21,7 @@ Task 2: Complete the app tutorial to familiarize yourself with the app's functio
 1. Complete #6 Learn more
 2. You know you have successfully completed the set up when you have familiarized yourself with the different app functions.
 
-Task 3: 
+Task 3: Navigate through the daily use cases of the app
 1. Send a message to your AP to check in
 2. Review the visual journal feed to see what your AP has been up to
 3. Review your visual journal for motivation and to see how far you've come
