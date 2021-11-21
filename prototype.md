@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prototype
+title: Prototype V1
 description: see it in action!
 image: assets/images/login_image.jpg
 nav-menu: true
