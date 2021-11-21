@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prototype V2
-description: see it in action!
+description: and user test script
 image: assets/images/login_image.jpg
 nav-menu: true
 ---
