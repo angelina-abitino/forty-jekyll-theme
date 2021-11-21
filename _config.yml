@@ -1,5 +1,5 @@
 # site settings
-title: INSTA-GOAL (name IP)
+title: INSTA-GOAL
 subtitle: real goals, real people
 email: angelina.abitino@colorado.edu
 description: 
@@ -15,7 +15,7 @@ phone: (321) 271-0596
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 4
+tiles-count: 6
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
