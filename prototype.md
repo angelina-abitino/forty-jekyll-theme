@@ -2,7 +2,7 @@
 layout: post
 title: Prototype V1
 description: see it in action!
-image: assets/images/prototype.jpg
+image: assets/images/prototype2.jpg
 nav-menu: true
 ---
 
